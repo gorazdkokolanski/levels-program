@@ -232,14 +232,14 @@ footer {
 /* thumb is a thin vertical line */
 .ba-slider input[type=range]::-webkit-slider-thumb {
     -webkit-appearance: none;
-    width: 7px;
+    width: 15px;
     height: 100%;
     background: #fff;
     margin-top: 0;
 }
 
 .ba-slider input[type=range]::-moz-range-thumb {
-    width: 7px;
+    width: 15px;
     height: 100%;
     background: #fff;
     border: none;
